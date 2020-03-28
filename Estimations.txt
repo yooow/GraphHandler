@@ -1,0 +1,27 @@
+AMAZON
+
+# Undirected graph: ../../data/output/amazon.ungraph.txt
+# Amazon
+# Nodes: 334863 Edges: 925872
+# FromNodeId	ToNodeId
+
+LJ
+# Undirected graph: ../../data/output/lj.ungraph.txt
+# LiveJournal
+# Nodes: 3997962 Edges: 34681189
+# FromNodeId	ToNodeId
+
+ORKUT
+
+# Undirected graph: ../../data/output/orkut.txt
+# Orkut
+# Nodes: 3072441 Edges: 117185083
+# FromNodeId	ToNodeId
+
+EU CORE
+# Nodes : 1005
+# Edges : 25571
+
+
+
+
